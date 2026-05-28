@@ -2,6 +2,45 @@
 # Dylibs-for-TrollFools 🎉
 
 欢迎来到 **Dylibs-for-TrollFools** GitHub 库！这是一个专门为 iOS 巨魔应用 **TrollFools** 收集、分享和存储自用破解或去广告插件的资源库。🚀
+<div align="center">
+
+## 🚀 合作推广 · DolOffer 数字订阅服务
+
+<a href="https://doloffer.com/friend/UYSMOgZM" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/curtinp118/Dylibs-for-TrollFools@main/doloffer-banner.png" width="720" />
+</a>
+
+<br><br>
+
+<a href="https://doloffer.com/friend/UYSMOgZM" target="_blank">
+  <b>DolOffer - 一站式数字订阅充值平台</b>
+</a>
+
+<br>
+
+稳定提供 GPT / Claude / YouTube Premium / iCloud+ 等数字订阅服务  
+支持官方正版订阅，自动发货，售后保障完善
+
+<br>
+
+💡 合作推广优惠码：<code>AI8888</code>（立享 9 折）
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GPT-Plus-10a37f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude-Pro-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YouTube-Premium-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/iCloud+-blue?style=for-the-badge" />
+
+<br><br>
+
+⚡ 本内容为合作推广展示
+
+<br><br>
+
+👉 <a href="https://doloffer.com/friend/UYSMOgZM" target="_blank"><b>立即前往官网</b></a>
+
+</div>
 
 ## 介绍 📜
 
