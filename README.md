@@ -4,41 +4,33 @@
 欢迎来到 **Dylibs-for-TrollFools** GitHub 库！这是一个专门为 iOS 巨魔应用 **TrollFools** 收集、分享和存储自用破解或去广告插件的资源库。🚀
 <div align="center">
 
-## 🚀 合作推广 · DolOffer 数字订阅服务
+## 🚀 机场推荐
 
-<a href="https://doloffer.com/friend/UYSMOgZM" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/curtinp118/Dylibs-for-TrollFools@main/doloffer-banner.png" width="720" />
-</a>
+### 吹雪云｜低价大流量
 
+注册即送 **7 天 128G 试用流量**，先试用，满意再购买。
+
+开业限时活动：优惠券 `50OFF`，**全场 5 折**，截止 **7 月 9 日**。
+[![pmwg9FP.jpg](https://s41.ax1x.com/2026/07/03/pmwg9FP.jpg)](https://imgchr.com/i/pmwg9FP)
+🔗 立即注册[吹雪云](https://xn--9kqs1lo79d.com/#/register?code=hxevCvYa)低至 **¥4 / 月**，大流量用户可优先考虑。
+
+---
+
+### 其他可选
+
+**龙珠 Z 加速**｜高速直连，50G ¥2 / 月起
+🔗 [点击注册](https://love.dragonz.cc/#/register?code=UOm5zMbv)
+
+**奈雪**｜可注册查看当前套餐与节点
+🔗 [点击注册](https://www.naixueyun.net/#/register?code=SDzhfUgs)
+
+> 建议先注册试用，按自己的地区、设备和流量需求选择。
+### DolOffer 数字订阅服务
 <br><br>
 
 <a href="https://doloffer.com/friend/UYSMOgZM" target="_blank">
   <b>DolOffer - 一站式数字订阅充值平台</b>
 </a>
-
-<br>
-
-稳定提供 GPT / Claude / YouTube Premium / iCloud+ 等数字订阅服务  
-支持官方正版订阅，自动发货，售后保障完善
-
-<br>
-
-💡 合作推广优惠码：<code>AI8888</code>（立享 9 折）
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GPT-Plus-10a37f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Claude-Pro-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/YouTube-Premium-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/iCloud+-blue?style=for-the-badge" />
-
-<br><br>
-
-⚡ 本内容为合作推广展示
-
-<br><br>
-
-👉 <a href="https://doloffer.com/friend/UYSMOgZM" target="_blank"><b>立即前往官网</b></a>
 
 </div>
 
